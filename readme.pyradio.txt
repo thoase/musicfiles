@@ -1,0 +1,2 @@
+- Get pyradio from https://github.com/coderholic/pyradio
+- Rename stations.pyradio.csv to stations.csv and put it in $HOME/.pyradio
